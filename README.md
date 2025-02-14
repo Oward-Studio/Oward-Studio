@@ -10,7 +10,7 @@ On this GitHub, you'll find examples of my work, contributions to open source pr
 
 *   **Design:** UX Design, UI Design, Design Systems
 *   **Front-end Development:** HTML, CSS, JavaScript, Tailwind, React, Next.js, Astro, Storybook, Laravel
-*   **Tools:** VS Code, Figma, Adobe, Affinity
+*   **Tools:** VS Code, Figma, Adobe, Affinity, Raycast, AI
 
 <!---
 Oward-Studio/Oward-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
