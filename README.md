@@ -4,7 +4,7 @@
 
 On this GitHub, you'll find examples of my work, contributions to open source projects, and tools to facilitate the creation of Design Systems. 🛠️
 
-📫 Feel free to contact me by email ([geoffrey@oward.fr](mailto:geoffrey@oward.fr)) or via [**LinkedIn**](https://www.linkedin.com/in/geoffrey-dumoutier-84700030/).
+📫 Feel free to contact me by email ([geoffrey@oward.fr](mailto:geoffrey@oward.fr)) or via [**LinkedIn**](https://www.linkedin.com/in/geoffrey-d-84700030/).
 
 ## Skills:
 
